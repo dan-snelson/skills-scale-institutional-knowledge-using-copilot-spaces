@@ -10,11 +10,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+2. **Business Analyst** works with Product Manager to document detailed requirements
+3. Create prioritized backlog with acceptance criteria
+4. Estimate scope (T-shirt sizing or story points)
+5. Define Definition of Done (DoD)
+6. Identify dependencies and integration points
+7. Create release plan and milestone map with **Release Manager**
 
 ## Backlog Item Template
 - Title:
@@ -24,6 +25,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Estimate:
 - Owner:
 - Related docs/links:
+
+**Business Analyst** and **Product Manager** collaborate on detailed requirement documentation when needed. **User Advocate** reviews items for user experience considerations.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length

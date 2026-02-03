@@ -17,7 +17,11 @@ OctoAcme employs a structured project management approach centered on iterative 
 - **Product Managers (PdMs)** define outcomes and prioritize backlogs
 - **Developers** implement features and maintain tests
 - **QA/Testers** validate quality
-- **Stakeholders** provide inputs and approvals, with clear ownership to ensure psychological safety and data-informed decisions
+- **Release Managers** coordinate release logistics and deployment activities
+- **Business Analysts** document requirements and bridge business and technical needs
+- **Change Managers** oversee change requests and approvals
+- **User Advocates** represent end-user perspective and ensure usability
+- **Stakeholder Committee** provides strategic input and resolves escalations
 
 These roles collaborate through weekly PM-PdM syncs, twice-weekly standups, and monthly stakeholder updates, fostering transparency and reducing dependencies on individuals.
 
@@ -37,6 +41,15 @@ Quality assurance practices integrate unit and integration tests, end-to-end smo
 - [Release & Deployment Guide](octoacme-release-and-deployment.md): Releasing software and handling hotfixes.
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md): Learning from each project, implementing improvements.
 - [Roles and Personas](octoacme-roles-and-personas.md): Team responsibilities and personas used in OctoAcme docs.
+
+## Templates & Checklists
+
+Actionable templates and checklists to support project execution:
+
+- [Risk & Escalation Checklist](template-risk-escalation-checklist.md): Comprehensive risk assessment and escalation path guidance.
+- [Release Planning & Approval Checklist](template-release-planning-approval-checklist.md): Ensure release readiness and obtain required approvals.
+- [Stakeholder Engagement Summary](template-stakeholder-engagement-summary.md): Track stakeholder activities, expectations, and feedback.
+- [Role Responsibilities Summary](template-role-responsibilities-summary.md): Quick-reference guide for role clarity and collaboration patterns.
 
 ## How to Use
 
